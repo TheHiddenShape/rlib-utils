@@ -6,3 +6,4 @@ description = "A UNIX-like system library written in Rust"
 license = "MIT"
 
 [dependencies]
+libc = { version = "0.2", default-features = false }
