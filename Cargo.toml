@@ -2,5 +2,7 @@
 name = "rlib-utils"
 version = "0.1.0"
 edition = "2024"
+description = "A UNIX-like system library written in Rust"
+license = "MIT"
 
 [dependencies]
